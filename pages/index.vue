@@ -1,10 +1,14 @@
 <template>
   <section class="container">
-      <p>Hello World</p>
+    <div>
+      <img src="~/assets/cat.jpg">
+    </div>
   </section>
 </template>
 
 
 <script>
-export default {}
+export default {
+
+}
 </script>
